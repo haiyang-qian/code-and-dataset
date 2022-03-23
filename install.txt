@@ -1,0 +1,11 @@
+pip install torchprofile
+pip install PyYAML
+pip install opencv-python==4.5.3.56
+pip install timm==0.4.12
+pip install Visualizer
+pip install bytecode
+pip install prettytable
+git clone https://github.com/luo3300612/Visualizer.git
+cd Visualizer
+python setup.py install
+cd..
